@@ -1,0 +1,12 @@
+name: regression-cloud
+title:
+username:
+account: drkrishna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 231455
+bundleId: 1063961
+url: https://drkrishna.shinyapps.io/regression-cloud/
+when: 1510097089.03165
+asMultiple: FALSE
+asStatic: FALSE
